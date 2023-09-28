@@ -1,4 +1,4 @@
-# AppMoments
+# AppMoments - Angular
 Site para salvar os melhores momentos, desenvolvido de forma fullstack com frontend Angular e backend AdonisJs, 
 para rodar o projeto, baixar o backend do repositorio e rodar seus comandos descritos nele
 => https://github.com/AllisonSilveiraDev/Api-AdonisJS-Moments
